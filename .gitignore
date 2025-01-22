@@ -1,3 +1,7 @@
 
 Data/ETFdata.parquet
 *.parquet
+*.pdf
+*.xlsx
+*.csv
+*.csv
